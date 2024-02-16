@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "mongo": "node src/database/index.js"
+    "mongo": "node src/database/db.js"
   },
   "keywords": [],
   "author": "",
